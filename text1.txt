@@ -1,1 +1,3 @@
 Text Nomor 1
+lorem ipmsum
+text 1 berakhir
